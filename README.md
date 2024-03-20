@@ -21,4 +21,4 @@ The Income Statement Dashboard is a Power BI project designed to provide a compr
 
 The Income Statement Dashboard in Power BI is a powerful tool for financial analysis and reporting, offering a holistic view of an organization's income statement metrics. By leveraging advanced visualization techniques and interactive features, this dashboard enables users to uncover valuable insights, drive strategic decisions, and ultimately, enhance financial performance and business success.
 
-![Income Statement Dashboard]([path/to/your/screenshot.png](https://drive.google.com/file/d/1Ddv-685QKou3gP6oXoIFjSqGYBsuTi2h/view?usp=sharing)https://drive.google.com/file/d/1Ddv-685QKou3gP6oXoIFjSqGYBsuTi2h/view?usp=sharing)
+![Income Statement Dashboard](https://drive.google.com/file/d/1Ddv-685QKou3gP6oXoIFjSqGYBsuTi2h/view)
