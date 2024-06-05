@@ -2,6 +2,8 @@
 
 The Income Statement Dashboard is a Power BI project designed to provide a comprehensive visualization of financial data related to an organization's income statement. This dashboard enables users, including executives, financial analysts, and stakeholders, to gain insights into the company's financial performance over a specific period.
 
+![Income Statement Dashboard](https://github.com/rushikeshtagadkar/IncomeStatementDashboard/blob/main/IncomeStatementDashboard.png)
+
 ## Key Features
 
 1. **Net Income:** Visualization of net income, representing the company's total earnings after deducting all expenses, taxes, and other costs.
